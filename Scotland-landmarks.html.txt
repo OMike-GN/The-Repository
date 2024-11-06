@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="eg">
+    <head>
+        <tittle>Scoland Landmarks</tittle>
+        <meta name="description" content="This is a website hat showscases scotland's landmarks.">
+    </head>
+    <body>
+        <h1><b>Landmark</b></h1>
+        <p>here we can see all the landmarks of scotland in all their beauty and glory.</p>
+
+        <h3>Landmark</h3>
+        <img src="img2/Landmark-forest-adventure-park.jpg">
+        <p>Landmark is the best location to have a good time and enjoy ypur holidays.</p>
+
+        <h3>Edinburgh castle</h3>
+        <img src="img2/Edinburgh-castle.jpg">
+        <p>It is over 900 years old and one of the remaining castles in scotland.</p>
+
+        <h3></h3>
+        <img src="">
+        <p></p>
+
+
+
+
+
+
+
+
+    </body>
+</html>
